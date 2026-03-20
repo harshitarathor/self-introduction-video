@@ -2,5 +2,5 @@
 
 Hi, I’m Harshita Rathor.
 
-## Video
-[self-introduction.mp4](./self-introduction.mp4)
+## Video link
+[Watch my video]([./self-introduction.mp4](https://drive.google.com/file/d/15iFr-wHAwFaHD_paydW6FNhizS1KqtIQ/view?usp=drivesdk))
